@@ -21,7 +21,9 @@ Still under development.
 3. **Enjoy!**
 
 # Screenshots Under this heading
-![Neovim](https://raw.githubusercontent.com/Serendipity.nvim/nvim.png)
+**Midnight**
+
+![Neovim](./nvim.png)
 
 # Who ported the theme?
 @AustinMay1
